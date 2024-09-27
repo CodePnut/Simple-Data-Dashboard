@@ -26,13 +26,25 @@ Welcome to the Simple Data Dashboard! This project is designed to provide an int
    ```
 
 2. Navigate to the project directory:
-   cd <project-directory>
+
+```bash
+ cd <project-directory>
+
+```
 
 3. Install the required dependencies:
-   pip install -r requirements.txt
+
+```bash
+ pip install -r requirements.txt
+
+```
 
 4. Run the Streamlit app:
-   streamlit run main.py
+
+```bash
+ streamlit run main.py
+
+```
 
 ## 🔮 Future Iterations
 
