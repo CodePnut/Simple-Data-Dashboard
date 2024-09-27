@@ -20,10 +20,10 @@ Welcome to the Simple Data Dashboard! This project is designed to provide an int
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository-url>
+```bash
+ git clone <repository-url>
 
-   ```
+```
 
 2. Navigate to the project directory:
 
